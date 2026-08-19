@@ -1,0 +1,6 @@
+{
+  "name": "FlowTown Lite",
+  "description": "A 2D route planning puzzle game where you draw roads and deliver goods without traffic collisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

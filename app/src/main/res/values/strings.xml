@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FlowTown Lite</string>
+    <string name="title_planning">Route Planning</string>
+    <string name="title_simulating">Simulating Routes…</string>
+    <string name="btn_start">Start Simulation</string>
+    <string name="btn_clear">Clear Route</string>
+    <string name="btn_undo">Undo Step</string>
+    <string name="btn_retry">Retry Level</string>
+    <string name="btn_next">Next Level</string>
+    <string name="status_success">Delivery Complete! ⭐⭐⭐</string>
+    <string name="status_collision">Crash! Vehicles Collided</string>
+    <string name="status_timeout">Time Expired</string>
+    <string name="status_wrong_dest">Wrong Destination</string>
+    <string name="hint_draw_route">Drag your finger from the vehicle across road junctions to the destination!</string>
+</resources>
